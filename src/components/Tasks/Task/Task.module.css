@@ -1,0 +1,62 @@
+.Task {
+    margin: 4px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Task .Text {
+    width: 150px;
+    padding: 8px;
+    display: inline-block;
+    text-align: left;
+    font-size: 0.95rem;
+    background-color: white;
+}
+
+.Task .Completed {
+    border: 1px solid rgb(200, 245, 200);
+    ;
+    outline: none;
+    font-size: 0.8rem;
+    padding: 8px;
+    background-color: rgb(240, 255, 240);
+}
+
+.Task .Completed:hover {
+    background-color: rgb(200, 245, 200);
+}
+
+.Task .Delete {
+    border: 1px solid rgb(255, 200, 200);
+    ;
+    outline: none;
+    font-size: 0.8rem;
+    padding: 8px;
+    background-color: rgb(255, 240, 240);
+}
+
+.Task .Delete:hover {
+    background-color: rgb(255, 200, 200);
+}
+
+@media(min-width: 360px) {
+    .Task .Text {
+        font-size: 1.2rem;
+    }
+    .Task .Completed {
+        font-size: 1rem;
+    }
+    .Task .Delete {
+        font-size: 1rem;
+    }
+}
+
+.Done {
+    opacity: 0.5;
+}
+
+.Done .Text {
+    text-decoration: line-through;
+}

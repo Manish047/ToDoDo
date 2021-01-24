@@ -1,0 +1,11 @@
+.ToDo {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.ToDo h1 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
