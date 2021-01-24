@@ -15,6 +15,7 @@ class NewTask extends Component {
         event.preventDefault();
         if (this.state.taskText.trim() === '') return;
         this.props.added(this.state.taskText);
+        this.setState({taskText: ''})
     }
 
     render() {
