@@ -29,6 +29,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### All Tasks
 
+<div align="center">
+    <img src="./screenshots/Category All.png" width="400px" />
+</div>
+
 ### Completed Tasks
 
+<div align="center">
+    <img src="./screenshots/Category Completed.png" width="400px" />
+</div>
+
 ### Pending Tasks
+
+<div align="center">
+    <img src="./screenshots/Category Pending.png" width="400px" />
+</div>
