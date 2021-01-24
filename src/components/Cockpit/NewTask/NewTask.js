@@ -13,6 +13,7 @@ class NewTask extends Component {
 
     formSubmitHandler = event => {
         event.preventDefault();
+        if (this.state.taskText.trim() === '') return;
         this.props.added(this.state.taskText);
     }
 

@@ -35,7 +35,7 @@ class ToDo extends Component {
 
         return (
             <div className={classes.ToDo}>
-                <h1 style={{ margin: '0', padding: '16px 0' }}>ToDoDoDo</h1>
+                <h1 style={{ margin: '0', padding: '16px 0' }}>ToDoDo</h1>
                 <Cockpit addTask={this.props.onCreateNewTask} changeFilter={this.changeFilter} />
                 <Tasks
                     tasks={tasks}
