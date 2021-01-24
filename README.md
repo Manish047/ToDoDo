@@ -1,7 +1,7 @@
 # ToDoDo: A ToDo List App Made Using React.js
 
-A Simple ToDo App made using React.js.
-Could be helpful for the people learning React.
+A Simple ToDo App made using React.js.<br/>
+Could be helpful for the people learning React.<br/>
 This app also consists of Redux(State Management).
 
 ## To run this app..
