@@ -8,11 +8,11 @@ This app also consists of Redux(State Management).
 
 ### Run 'cd your-app-root-directory'
 
-Navigate to the root folder where you copy the code.
+Navigate to the root folder where you copied the code.
 
 ### Run 'npm install'
 
-Install all the dependencies in a folder named 'node_modules'.
+Installs all the dependencies in a folder named 'node_modules'.
 
 ### Run 'npm start'
 
