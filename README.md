@@ -21,16 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## A few Screen Shots...
 
-### Overview
-
-<div align="center">
-    <img src="./screenshots/Overview.png" width="400px" />
-</div>
-
 ### All Tasks
 
 <div align="center">
-    <img src="./screenshots/Category All.png" width="400px" />
+    <img src="./screenshots/Overview.png" width="400px" />
 </div>
 
 ### Completed Tasks
