@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### Overview
 
 <div align="center">
-    <img src="../screenshots/Overview.png" width="400px" />
+    <img src="./screenshots/Overview.png" width="400px" />
 </div>
 
 ### All Tasks
